@@ -1,0 +1,204 @@
+{
+  "basics": {
+    "name": "Mohammad Shokri Khanghah",
+    "label": "BackEnd Web Developer / Linux SysAdmin",
+    "picture": "https://slashsbin.com/assets/img/slashsBin.png",
+    "email": "shokri.md@gmail.com",
+    "phone": "+989124433081",
+    "website": "https://slashsbin.com",
+    "summary": "I am a software developer who likes beautiful code and has an adherence to standards and open-source solutions. I study software engineering & security and work as a backend web developer/Linux system administrator in Tehran. I like to specialize in securing enterprise level web applications esp. on Unix-like platforms. As a backend web developer, I practice framework-based web application development primary using Laravel. In my free time, you'll find me trying to find out a pattern for an ability I tried to achieve before, hacking on some random piece of code which I'm excited about, playing with Ubuntu or FreeBSD, or curiously pen testing a web suite while putting a Grey Hat on.",
+    "location": {
+      "city": "Tehran",
+      "countryCode": "IR",
+      "region": "Tehran"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "slashsbin",
+        "url": "https://twitter.com/slashsbin"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "slashsbin",
+        "url": "https://linkedin.com/in/slashsbin"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "slashsbin",
+        "url": "https://stackoverflow.com/story/slashsbin"
+      },
+      {
+        "network": "GitHub",
+        "username": "slashsbin",
+        "url": "https://github.com/slashsbin"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelance",
+      "position": "Software Developer / DevOps Engineer",
+      "website": "https://slashsbin.com",
+      "startDate": "2005-09-01",
+      "endDate": "2018-12-30",
+      "summary": "",
+      "highlights": [
+        "Design & Development of Web Applications, and Platform/Service Applications mainly based on Open-Source Solutions.",
+        "Web Development Mentoring"
+      ]
+    },
+    {
+      "company": "Ctrl+Tech",
+      "position": "BackEnd Web Developer / Linux SysAdmin",
+      "website": "http://ctrltech.org/",
+      "startDate": "2017-09-01",
+      "endDate": "2018-12-30",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "Rayvarz Software Engineering Company",
+      "position": "Senior Web Developer & SysAdmin / Team Lead",
+      "website": "https://en.rayvarz.com/",
+      "startDate": "2013-04-01",
+      "endDate": "2017-02-01",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "Behsazan Dental Laboratory",
+      "position": "Web Master",
+      "website": "https://behdentallab.com/",
+      "startDate": "2005-09-01",
+      "endDate": "2013-04-01",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "Shiveh Corp",
+      "position": "Senior Web Developer / Team Lead",
+      "website": "http://www.shiveh.com",
+      "startDate": "2009-10-01",
+      "endDate": "2012-05-01",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Aptech Computer Education",
+      "area": "Aptech Certified Computer Professional(ACCP)",
+      "startDate": "2005-01-01",
+      "endDate": "2009-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "PHP / FPM",
+        "Laravel",
+        "PostgreSQL",
+        "NginX",
+        "Redis",
+        "PHPUnit"
+      ]
+    },
+    {
+      "name": "SysAdmin / DevOps",
+      "level": "Basic",
+      "keywords": [
+        "Ubuntu",
+        "Docker",
+        "Ansible",
+        "InfluxData",
+        "GitLab CI",
+        "Varnish Cache",
+        "Haproxy",
+        "Fail2Ban",
+        "UFW",
+        "LetsEncrypt"
+      ]
+    },
+    {
+      "name": "Technology Stack",
+      "level": "Other",
+      "keywords": [
+        "Apache HttpD",
+        "MySQL / MariaDB",
+        "Symfony",
+        "Bash",
+        "Git",
+        "Regex",
+        "Phabricator",
+        "Debian",
+        "OAuth / JWT",
+        "OpenAPI",
+        "Grafana",
+        "Vagrant"
+      ]
+    },
+    {
+      "name": "Cloud Services",
+      "level": "Basic",
+      "keywords": [
+        "CloudFlare",
+        "NewRelic",
+        "Rollbar",
+        "OneSignal",
+        "Firebase Cloud Messaging"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Neural Networks & A.I",
+        "Web Security",
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Unicorns",
+        "xkcd",
+        "Emojis"
+      ]
+    },
+    {
+      "name": "Sci-Fi",
+      "keywords": [
+        "StarCraft II"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "keywords": [
+        "Fractals",
+        "Magic Numbers"
+      ]
+    }
+  ]
+}
