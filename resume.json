@@ -6,7 +6,7 @@
         "email": "shokri.md@gmail.com",
         "phone": "+989124433081",
         "website": "https://slashsbin.com/",
-        "summary": "I am a software developer who likes beautiful code and has an adherence to standards and open-source solutions. I study software engineering & security and work as a backend web developer/Linux system administrator in Tehran. I like to specialize in securing enterprise level web applications esp. on Unix-like platforms. As a backend web developer, I practice framework-based web application development primary using Laravel. In my free time, you'll find me trying to find out a pattern for an ability I tried to achieve before, hacking on some random piece of code which I'm excited about, playing with Ubuntu or FreeBSD, or curiously pen-testing a web suite while putting a Grey Hat on.",
+        "summary": "I am a software developer who likes beautiful code and has an adherence to standards and open-source solutions. I study software engineering & security and work as a backend web developer/Linux system administrator in Tehran. I like to specialize in securing enterprise level web applications esp. on Unix-like platforms. As a backend web developer, I practice framework-based web application development primary using Symfony. In my free time, you'll find me trying to find out a pattern for an ability I tried to achieve before, hacking on some random piece of code which I'm excited about, playing with Ubuntu or FreeBSD, or curiously pen-testing a web suite while putting a Grey Hat on.",
         "location": {
             "city": "Tehran",
             "countryCode": "IR",
