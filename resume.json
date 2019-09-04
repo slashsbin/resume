@@ -2,10 +2,10 @@
     "basics": {
         "name": "Mohammad Shokri Khanghah",
         "label": "BackEnd Web Developer / Linux SysAdmin",
-        "picture": "https://slashsbin.com/assets/img/0x004d44.png",
+        "picture": "https://raw.githubusercontent.com/slashsbin/slashsbin.github.io/master/assets/img/0x004d44.png",
         "email": "shokri.md@gmail.com",
         "phone": "+989124433081",
-        "website": "https://slashsbin.com",
+        "website": "https://slashsbin.com/",
         "summary": "I am a software developer who likes beautiful code and has an adherence to standards and open-source solutions. I study software engineering & security and work as a backend web developer/Linux system administrator in Tehran. I like to specialize in securing enterprise level web applications esp. on Unix-like platforms. As a backend web developer, I practice framework-based web application development primary using Laravel. In my free time, you'll find me trying to find out a pattern for an ability I tried to achieve before, hacking on some random piece of code which I'm excited about, playing with Ubuntu or FreeBSD, or curiously pen-testing a web suite while putting a Grey Hat on.",
         "location": {
             "city": "Tehran",
@@ -24,7 +24,7 @@
                 "url": "https://linkedin.com/in/slashsbin"
             },
             {
-                "network": "Stack Overflow Dev Story",
+                "network": "Stack Overflow",
                 "username": "slashsbin",
                 "url": "https://stackoverflow.com/story/slashsbin"
             },
@@ -32,6 +32,26 @@
                 "network": "GitHub",
                 "username": "slashsbin",
                 "url": "https://github.com/slashsbin"
+            },
+            {
+                "network": "Skype",
+                "username": "slashsbin",
+                "url": "callto:slashsbin"
+            },
+            {
+                "network": "Instagram",
+                "username": "slashsbin",
+                "url": "https://www.instagram.com/slashsbin/"
+            },
+            {
+                "network": "Spotify",
+                "username": "slashsbin",
+                "url": "https://open.spotify.com/user/1146794683"
+            },
+            {
+                "network": "Keybase",
+                "username": "slashsbin",
+                "url": "https://keybase.io/slashsbin"
             }
         ]
     },
@@ -46,8 +66,9 @@
         {
             "company": "SnappFood",
             "position": "BackEnd Chapter Lead",
-            "website": "https://snappfood.ir",
-            "startDate": "2018-12-01"
+            "website": "https://snappfood.ir/locale/en/",
+            "startDate": "2018-12-01",
+            "endDate": "2019-06-01"
         },
         {
             "company": "Ctrl+Tech",
@@ -115,70 +136,84 @@
             "level": "Master",
             "keywords": [
                 "PHP / FPM",
+                "Symfony Framework",
                 "Laravel Framework",
                 "PostgreSQL",
+                "MySQL / MariaDB",
                 "NginX",
                 "Redis",
+                "RabbitMQ",
                 "PHPUnit"
             ]
         },
         {
             "name": "SysAdmin / DevOps",
-            "level": "Basic",
+            "level": "Advanced",
             "keywords": [
+                "Debian",
                 "Ubuntu",
-                "Docker",
+                "Docker / Docker Compose",
                 "Ansible",
-                "InfluxData",
                 "GitLab CI",
                 "Varnish Cache",
-                "Haproxy",
+                "HAProxy",
                 "Fail2Ban",
-                "UFW",
+                "Snort",
+                "IPTables/UFW",
                 "LetsEncrypt"
             ]
         },
         {
-            "name": "Technology Stack",
-            "level": "Other",
+            "name": "Technology Stack & Tools",
+            "level": "Advanced",
             "keywords": [
-                "Apache HttpD",
-                "MySQL / MariaDB",
-                "Symfony Framework",
                 "Bash",
                 "Git",
                 "Regex",
                 "Phabricator",
-                "Debian",
                 "OAuth / JWT",
-                "OpenAPI",
+                "Swagger / OpenAPI",
                 "Grafana",
-                "Vagrant"
+                "Vagrant",
+                "TICK Stack(Telegraf, InfluxDB, Chronograf, Kapacitor)",
+                "ELK Stack(Elastic Search, LogStash, Kibana)"
             ]
         },
         {
             "name": "Cloud Services",
-            "level": "Basic",
+            "level": "Intermediate",
             "keywords": [
                 "CloudFlare",
                 "NewRelic",
                 "Rollbar",
                 "OneSignal",
-                "Firebase Cloud Messaging"
+                "Firebase Cloud Messaging",
+                "NetData",
+                "Sentry"
+            ]
+        },
+        {
+            "name": "Learning & Practicing",
+            "level": "Beginner",
+            "keywords": [
+                "Golang",
+                "K8s(Kubernetes) / Helm",
+                "DigitalOcean Products",
+                "GCP(Google Cloud Platform)"
             ]
         }
     ],
     "languages": [
         {
             "language": "Persian",
-            "fluency": "Native speaker"
+            "fluency": "Native or bilingual proficiency"
         },
         {
             "language": "English",
             "fluency": "Professional working proficiency"
         },
         {
-            "language": "Leet",
+            "language": "1337 / Leet",
             "fluency": "Professional working proficiency"
         }
     ],
@@ -222,5 +257,8 @@
                 "Magic Numbers"
             ]
         }
-    ]
+    ],
+    "meta": {
+        "theme": "flat"
+    }
 }
